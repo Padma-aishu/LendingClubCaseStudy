@@ -41,4 +41,4 @@ Two types of risks are associated with the bank's decision:
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Created by PADMAVATHI D & VINODA VARSHINIRAJAGOPAL.
+## Created by PADMAVATHI D[https://github.com/Padma-aishu] & VINODA VARSHINI RAJAGOPAL[https://github.com/VinodaVarshini] as a part of MS in ML & AI program from IIITB & LJMU by upGrad.
